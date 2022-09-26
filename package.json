@@ -54,7 +54,7 @@
     "karma-sourcemap-loader": "^0.3.6",
     "karma-webpack": "^1.7.0",
     "mocha": "^2.3.3",
-    "nightwatch": "^0.9.16",
+    "nightwatch": "^2.3.9",
     "phantomjs": "^1.9.18",
     "prop-types": "^15.5.8",
     "react": "^15.6.1",
