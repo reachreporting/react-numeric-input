@@ -44,7 +44,7 @@
     "eslint": "^1.10.3",
     "eslint-plugin-react": "^3.15.0",
     "expect": "^1.12.2",
-    "karma": "^0.13.22",
+    "karma": "^6.4.1",
     "karma-chrome-launcher": "^0.2.1",
     "karma-firefox-launcher": "^0.1.6",
     "karma-mocha": "^0.2.0",
@@ -53,14 +53,14 @@
     "karma-safari-launcher": "^1.0.0",
     "karma-sourcemap-loader": "^0.3.6",
     "karma-webpack": "^1.7.0",
-    "mocha": "^2.3.3",
-    "nightwatch": "^0.9.16",
-    "phantomjs": "^1.9.18",
+    "mocha": "^10.2.0",
+    "nightwatch": "^2.6.16",
+    "phantomjs": "^1.9.20",
     "prop-types": "^15.5.8",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
     "selenium-download": "^2.0.10",
-    "webpack": "^1.12.2"
+    "webpack": "^5.75.0"
   },
   "peerDependencies": {
     "react": ">=0.14.0 || ^15.6.1 || ^16.0.0"
